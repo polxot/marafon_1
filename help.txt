@@ -1,0 +1,4 @@
+git init
+ls -a -информация
+git status
+git add .
