@@ -3,3 +3,6 @@ ls -a -информация
 git status
 git add .
 git commit -m "1_commit"
+git branch -M main
+git remote add origin https://github.com/polxot/marafon_1.git
+git push -u origin develop
